@@ -17,7 +17,7 @@ This is an ***open-source*** custom **installer**. Easy Installer Generator crea
 
 You need to generate an installer and set some default settings. Then the generator automatically creates the installer for you. Now, you just need to run the installer or send to someone to install your program.
 
-- Required Installer and InstallerV2 foders and their content in the same directory as 'Easy Installer Generator'. 
+- Required **Installer** and **InstallerV2** foders and their content in the *same directory* as 'Easy Installer Generator'. 
 
 > The showed settings in Easy Installer Generator are required.
 
