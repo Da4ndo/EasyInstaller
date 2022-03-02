@@ -1,0 +1,54 @@
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\bin\Debug\InstallerV2.exe.config
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\bin\Debug\InstallerV2.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\bin\Debug\InstallerV2.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.AssemblyReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\MainWindow.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\App.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2_MarkupCompile.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2_MarkupCompile.lref
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\MainWindow.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.g.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.Properties.Resources.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.GenerateResource.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.CoreCompileInputs.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\eula.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\finish.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\installation.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\path.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\eula.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\finish.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\installation.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\path.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.ResolveComReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\InstallerV2\InstallerV2\obj\Debug\InstallerV2_Content.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\bin\Debug\InstallerV2.exe.config
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\bin\Debug\InstallerV2.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\bin\Debug\InstallerV2.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.AssemblyReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.ResolveComReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\eula.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\finish.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\installation.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\MainWindow.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\path.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\App.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2_Content.g.cs
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2_MarkupCompile.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2_MarkupCompile.lref
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\eula.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\finish.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\installation.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\MainWindow.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\path.baml
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.g.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.Properties.Resources.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.GenerateResource.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.csproj.CoreCompileInputs.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\InstallerV2\InstallerV2\obj\Debug\InstallerV2.pdb

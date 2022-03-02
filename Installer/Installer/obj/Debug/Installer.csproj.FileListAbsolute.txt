@@ -1,0 +1,32 @@
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\bin\Debug\Installer.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\bin\Debug\Installer.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.csproj.AssemblyReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.Form1.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.Properties.Resources.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.csproj.GenerateResource.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.csproj.CoreCompileInputs.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.Panels.eula.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.Panels.finish.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.Panels.installing.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.Panels.path.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\vrgdn\Desktop\Work\Home\cs\Installer\Installer\obj\Debug\Installer.csproj.ResolveComReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\bin\Debug\Installer.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\bin\Debug\Installer.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.csproj.AssemblyReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.csproj.ResolveComReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.Form1.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.Panels.eula.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.Panels.finish.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.Panels.installing.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.Panels.path.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.Properties.Resources.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.csproj.GenerateResource.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.csproj.CoreCompileInputs.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Installer\Installer\obj\Debug\Installer.pdb
