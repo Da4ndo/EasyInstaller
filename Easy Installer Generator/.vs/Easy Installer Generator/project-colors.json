@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f33e1e70-0edd-4ac5-a333-48a4eeb052f0": {
+      "ProjectGuid": "f33e1e70-0edd-4ac5-a333-48a4eeb052f0",
+      "DisplayName": "Easy Installer Generator",
+      "ColorIndex": 0
+    },
+    "30697e97-9c69-4676-aa52-6af9c92b7829": {
+      "ProjectGuid": "30697e97-9c69-4676-aa52-6af9c92b7829",
+      "DisplayName": "InstallerV2",
+      "ColorIndex": 1
+    },
+    "ab3ea97b-1f8e-4cd1-9e9f-f7fdbd765dad": {
+      "ProjectGuid": "ab3ea97b-1f8e-4cd1-9e9f-f7fdbd765dad",
+      "DisplayName": "Installer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

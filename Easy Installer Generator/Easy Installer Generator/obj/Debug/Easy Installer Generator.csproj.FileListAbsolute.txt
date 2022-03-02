@@ -1,0 +1,12 @@
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\bin\Debug\Easy Installer Generator.exe.config
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\bin\Debug\Easy Installer Generator.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\bin\Debug\Easy Installer Generator.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy Installer Generator.csproj.AssemblyReference.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy Installer Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy_Installer_Generator.Form1.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy_Installer_Generator.Properties.Resources.resources
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy Installer Generator.csproj.GenerateResource.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy Installer Generator.csproj.CoreCompileInputs.cache
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy Installer Generator.exe
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy Installer Generator.pdb
+C:\Users\vrgdn\Desktop\Work\Home\cs\Easy Installer\Easy Installer Generator\Easy Installer Generator\obj\Debug\Easy_Installer_Generator.preview.resources
